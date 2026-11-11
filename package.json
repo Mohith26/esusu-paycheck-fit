@@ -1,0 +1,10 @@
+{
+  "name": "esusu-paycheck-fit",
+  "private": true,
+  "type": "module",
+  "description": "Concept demo: Split Pay dates fit to a renter's paychecks, with calibrated risk",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "evaluate": "node scripts/evaluate.mjs"
+  }
+}
